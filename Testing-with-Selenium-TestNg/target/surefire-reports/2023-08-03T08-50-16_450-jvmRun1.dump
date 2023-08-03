@@ -1,4 +1,4 @@
-# Created at 2023-08-03T06:19:27.464
+# Created at 2023-08-03T08:50:18.864
 org.apache.maven.surefire.api.testset.TestSetFailedException: Suite file /home/coder/project/workspace/Testing-with-Selenium-TestNg/testng.xml is not a valid file
 	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.locateTestSets(TestNGXmlTestSuite.java:99)
 	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:118)
